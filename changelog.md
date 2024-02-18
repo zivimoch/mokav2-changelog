@@ -18,6 +18,7 @@ Version 2.1 (update) – 18 Feb 2024
 - new - check box keterangan sudah / belum diTL di halaman laporan kinerja
 - new - halaman monitoring laporan kinerja untuk sekretariat
 - new - filter tampilkan agenda belum DiTL di halaman laporan kinerja
+- remove - hilangkan nama Supervisor Kasus / satpel di list Tgas
 - fix - hide formulir tambah/edit agenda as default di form agenda
 - fix - menampilkan tombol edit di formulir agenda di dashboard
 
