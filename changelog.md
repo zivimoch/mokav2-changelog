@@ -9,7 +9,7 @@ Version x for future – unstable
 - update - filter untuk memunculkan seluruh kasus
 - remove - "Deskripsi Proses", "Deskripsi Hasil" dan "Rencana Tindak Lanjut" di layout versi case action plan
 
-Version 2.1 – 12 Feb 2024
+Version 2.1 (update) – 18 Feb 2024
 -------------------------------------------------------------------------------------------------------------
 - new - filter bulan dan tahun di halaman laporan kinerja
 - new - filter bulan dan tahun di halaman monitoring laporan kinerja
@@ -19,6 +19,10 @@ Version 2.1 – 12 Feb 2024
 - new - halaman monitoring laporan kinerja untuk sekretariat
 - new - filter tampilkan agenda belum DiTL di halaman laporan kinerja
 - fix - hide formulir tambah/edit agenda as default di form agenda
+- fix - menampilkan tombol edit di formulir agenda di dashboard
+
+Version 2.1 – 12 Feb 2024
+-------------------------------------------------------------------------------------------------------------
 - new - field WYSIWYG "Rencana Tindak Lanjut" di form agenda
 - new - field multiple select "Detail Layanan" di form agenda
 - new - alert ketika nama user tidak ada di "Tags" di form agenda
