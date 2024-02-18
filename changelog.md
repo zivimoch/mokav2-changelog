@@ -11,6 +11,14 @@ Version x for future – unstable
 
 Version 2.1 – 12 Feb 2024
 -------------------------------------------------------------------------------------------------------------
+- new - filter bulan dan tahun di halaman laporan kinerja
+- new - filter bulan dan tahun di halaman monitoring laporan kinerja
+- new - export laporan kinerja ke PDF sesuai format sekretariat di halaman laporan kinerja
+- new - check box validasi agenda untuk sekretariat di halaman laporan kinerja
+- new - check box keterangan sudah / belum diTL di halaman laporan kinerja
+- new - halaman monitoring laporan kinerja untuk sekretariat
+- new - filter tampilkan agenda belum DiTL di halaman laporan kinerja
+- fix - hide formulir tambah/edit agenda as default di form agenda
 - new - field WYSIWYG "Rencana Tindak Lanjut" di form agenda
 - new - field multiple select "Detail Layanan" di form agenda
 - new - alert ketika nama user tidak ada di "Tags" di form agenda
