@@ -9,6 +9,20 @@ Version x for future – unstable
 - update - filter untuk memunculkan seluruh kasus
 - remove - "Deskripsi Proses", "Deskripsi Hasil" dan "Rencana Tindak Lanjut" di layout versi case action plan
 
+Version 2.1 (update) – 3 Mar 2024
+-------------------------------------------------------------------------------------------------------------
+- new - list petugas di modal kasus
+- new - floating button Tambah Agenda di halaman laporan kinerja
+- new - reaload tabel tetap pada halaman yang sama di halaman laporan kinerja
+- new - filter kasus yang diregis di grafik jumlah kasus di halaman monitoring
+- fix - gagal tambah agenda karena uuid agenda sebelumnya masih ada
+- fix - validasi jika sudah ada no regisnya maka jika approve akan gagal
+- update - tombol detail kasus berupa link sehingga dapat dibuka di tab baru
+- update - tidak bisa approve kasus ketika sudah kasus diarsipkan
+- update - tidak bisa arsipkan kasus ketika sudah ada no regisnya
+- remove - tombol hapus kasus ketika sudah ada no regisnya
+- remove - centang validasi oleh Sekretariat di halaman laporan kinerja 
+
 Version 2.1 (update) – 18 Feb 2024
 -------------------------------------------------------------------------------------------------------------
 - new - filter bulan dan tahun di halaman laporan kinerja
