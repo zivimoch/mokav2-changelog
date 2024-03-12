@@ -3,11 +3,7 @@ User Notes
 
 Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
-- new - user web settings page
-- new - user web setting layout intervensi pilih layout case action plan / vertical card 
 - new - tabel jumlah setiap layanan di halaman monitoring
-- update - filter untuk memunculkan seluruh kasus
-- remove - "Deskripsi Proses", "Deskripsi Hasil" dan "Rencana Tindak Lanjut" di layout versi case action plan
 
 Version 2.1 (update) – 12 Mar 2024
 -------------------------------------------------------------------------------------------------------------
