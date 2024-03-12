@@ -9,6 +9,27 @@ Version x for future – unstable
 - update - filter untuk memunculkan seluruh kasus
 - remove - "Deskripsi Proses", "Deskripsi Hasil" dan "Rencana Tindak Lanjut" di layout versi case action plan
 
+Version 2.1 (update) – 12 Mar 2024
+-------------------------------------------------------------------------------------------------------------
+- new - tombol filter di halaman kasus
+- new - filter memunculkan seluruh kasus
+- new - filter basis periode kasus
+- new - filter periode kasus
+- new - filter basis wilayah
+- new - filter wilayah
+- new - filter basis pengurangan usia klien
+- new - filter kategori klien
+- new - filter arsip
+- new - tombol filter di halaman detail kasus, tabel intervensi
+- new - filter menampilkan agenda intervensi berdasarkan jabatan
+- new - filter agenda yang sudah / belum ditindak lanjuti
+- new - filter agenda sesuai user yang login
+- new - layout tabel intervensi / agenda & kinerja
+- new - halaman web settings user
+- new - tabel monitoring aktivitas kasus di halaman monitoring
+- new - informasi mengenai field apa saja yang dihitung pada Kelengkapan Data
+- fix - save formulir terlapor
+
 Version 2.1 (update) – 3 Mar 2024
 -------------------------------------------------------------------------------------------------------------
 - new - list petugas di modal kasus
