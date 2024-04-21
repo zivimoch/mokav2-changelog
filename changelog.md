@@ -5,6 +5,34 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+Version 2.1 (update) – 21 Apr 2024
+-------------------------------------------------------------------------------------------------------------
+- new - kolom "Agenda Kasus yang Anda Tangani"
+- new - perbandingan jumlah kasus diterminasi dari seluruh kasus
+- new - fitur Catatan Layanan Hukum
+- new - fitur Catatan Layanan Psikologi
+- new - grafik Jumlah Korban Kekerasan Berdasarkan Kategori Klien di halaman monitoring
+- new - grafik Jumlah Korban Kekerasan Berdasarkan Wilayah di halaman monitoring
+- new - grafik Jumlah Korban Kekerasan Berdasarkan Klasifikasi Kasus di halaman monitoring
+- new - keterangan nama klien di list agenda
+- new - perbandingan presentase agenda yang dibuat oleh MK dan bukan
+- new - filter wilayah domisili disetiap grafik di halaman monitoring kasus
+- new - detail layanan PK ditambah : Rujukan ke Rumah Aman, Rujukan ke UPTD PPA, Rujukan ke KemenPPA, Rujukan ke Panti Dinas Sosial
+- new - keterangan nama hari di tabel laporan kinerja
+- new - keterangan nama hari di tabel intervensi
+- new - load system di fitur list agenda di dashboard
+- new - filter untuk user dapat melihat seluruh kasus
+- new - keterangan presentase akumulasi kelengkapan data
+- new - grouping jadwal per tanggal intervensi di halaman detail kasus
+- new - loading system ketika submit agenda
+- new - default penyajian data basis waktunya adalah tanggal diapprove
+- new - tombol hapus terlapor
+- new - list petugas di modal detail kasus
+- fix - agenda yang dihapus tetap muncul karna belum diTL
+- update - hide notifikasi dari kasus yang diarsipkan
+- update - permanen hapus petugas tidak flag
+- remove - resume layanan
+  
 Version 2.1 (update) – 12 Mar 2024
 -------------------------------------------------------------------------------------------------------------
 - new - tombol filter di halaman kasus
