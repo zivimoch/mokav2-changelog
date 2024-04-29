@@ -5,6 +5,14 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+Version 2.1 (update) – 29 Apr 2024
+-------------------------------------------------------------------------------------------------------------
+- new - warning kelengkapan data
+- new - tambahin tanggal approve di filter list kasus 
+- update - riwayat kejadian hanya bisa dibuat MK
+- update - texteditor riwayat kejadian 
+- update - jam diriwayat kejadian tambah keterangan 00:00 jika tidak tahu
+
 Version 2.1 (update) – 21 Apr 2024
 -------------------------------------------------------------------------------------------------------------
 - new - kolom "Agenda Kasus yang Anda Tangani"
