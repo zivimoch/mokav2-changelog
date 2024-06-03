@@ -5,6 +5,17 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+Version 2.1 (update) – 1 Juni 2024
+-------------------------------------------------------------------------------------------------------------
+- new - kolom urutan nomor di halaman monitoring kinerja
+- new - keterangan bulan dan tahun pada download excel dan pdf di halaman monitoring kinerja
+- new - jumlah hari di halaman monitoring kinerja 
+- new - Field Catatan Proses Hukum di halaman detail kasus 
+- new - menampilkan filter yang sedang aktif di list kasus di halaman kasus 
+- new - fitur paste di tinyMCE agenda
+- fix - firefox gk bisa select2 
+- fix - perbesar modal di riwayat kejadian
+  
 Version 2.1 (update) – 29 Apr 2024
 -------------------------------------------------------------------------------------------------------------
 - new - warning kelengkapan data
