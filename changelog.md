@@ -5,6 +5,22 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+- Version 2.1 (update) – 15 Agustus 2024
+-------------------------------------------------------------------------------------------------------------
+- new - field "intervensi ke" pada formulir intervensi
+- new - field "tindak lanjut" pada formulir pemantauan & evaluasi
+- new - modul penanda kasus harus segera dilakukan pemantauan & evaluasi
+- new - filter kasus yang harus segera dilakukan pemantauan & evaluasi
+- new - tab pemisah antara asesmen awal dan asesmen lanjutan
+- new - membuat flag "Perkiraan"
+- new - penambahan klasifikasi pada agenda di dashboard menjadi : Agenda Saya, Kasus Saya dan Semua
+- fix - notifikasi perubahan agenda harusnya tidak menjadi task melainkan jadi notifikasi dan update tasknya.
+- fix - bug di judul kegiatan (auto correct)
+- update - rekap data untuk WhatsApp
+- update - tampilan halaman login
+- update - pemisahan antara agenda Layanan dan agenda Manajemen Layanan
+- update - module intervensi. pembagian setiap intervensi
+
 Version 2.1 (update) – 1 Juni 2024
 -------------------------------------------------------------------------------------------------------------
 - new - kolom urutan nomor di halaman monitoring kinerja
