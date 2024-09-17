@@ -5,7 +5,23 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
-- Version 2.1 (update) – 15 Agustus 2024
+
+Version 2.2 (update) – 17 September 2024
+-------------------------------------------------------------------------------------------------------------
+- new - field "kirim notifikasi ke" pada fitur catatan kasus
+- new - filter "Kasus yang BELUM ADA agenda intervensinya dari anda"
+- new - kolom jumlah intervensi yang dilakukan per petugas per klien 
+- new - formulir terminasi pada tab settings. bisa digunakan dengan syarat sudah melakukan pemantauan & evaluasi dan action_pemantauannya = 'ajukan terminasi'
+- new - bulk Action “Tandai semua telah dibaca”
+- new - tambah Task T2 ketika Penerima Pengaduan Mengklaim Kasus
+- new - keterengan usia klien di halaman list klien
+- update - ketika menambahkan petugas penerima pengaduan membuat created_by kasusnya berubah
+- fix - bug ketika kasus sudah terminasai seharusnya warning tentang pemantawaun & evaluasi tidak muncul lagi
+- fix - dobel klsaifikasi (riwayat, jenis dan bentuk) pada halaman detail layanan
+- fix - penambahan kriteria sudah diTL untuk TL kode Task  T4, T6, T7, T8, T15
+- fix - perubahan tipe dari “Task” menjadi “Notif” untuk TL kode Task T9 dan T15
+
+Version 2.1 (update) – 15 Agustus 2024
 -------------------------------------------------------------------------------------------------------------
 - new - field "intervensi ke" pada formulir intervensi
 - new - field "tindak lanjut" pada formulir pemantauan & evaluasi
