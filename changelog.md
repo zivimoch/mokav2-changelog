@@ -5,7 +5,14 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
-
+Version 2.2 (update) – 10 Oktober 2024
+-------------------------------------------------------------------------------------------------------------
+- new - search box untuk mencari klien
+- new - link klien di agenda hari ini
+- new - link klien di formulir agenda
+- new - link klien di detail agenda
+- remove - kolom jumlah intervensiku
+  
 Version 2.2 (update) – 17 September 2024
 -------------------------------------------------------------------------------------------------------------
 - new - field "kirim notifikasi ke" pada fitur catatan kasus
