@@ -10,13 +10,21 @@ Version 2.2 (update) – 24 Februari 2025
 - update - Perubahan field Deskripsi Proses.
 - new - Share Laporan Kegiatan.
 
+Version 2.2 (update) – 17 Maret 2025
+-------------------------------------------------------------------------------------------------------------
+- new - kolom hubungan telapor dengan korban pada formulir penerima pengaduan
+- update - tanggal ditandatangani pada surat persetujuan
+- fix - load modal agenda agar ketika habis edit dan ingin melihat detail agenda, yang keluar adalah tampilan view bukan form editnya
+- fix - nama tenaga ahli tidak muncul saat akan menambahan petugas
+- fix - no regis dobel tapi bulan beda
+
 Version 2.2 (update) – 17 Februari 2025
 -------------------------------------------------------------------------------------------------------------
-- new - Share list agenda
-- new - Share ringkasan kasus
-- new - Surat penerimaan / penghentian layanan RPS
-- new - Download data layanan non-agregat
-- new - Penambahan mekanisme 1 kasus 1 akun primer Supervisor Kasus, Manajer Kasus, Penerima Pengaduan.
+- new - share list agenda
+- new - share ringkasan kasus
+- new - surat penerimaan / penghentian layanan RPS
+- new - download data layanan non-agregat
+- new - penambahan mekanisme 1 kasus 1 akun primer Supervisor Kasus, Manajer Kasus, Penerima Pengaduan.
 
 Version 2.2 (update) – 10 Oktober 2024
 -------------------------------------------------------------------------------------------------------------
@@ -43,8 +51,8 @@ Version 2.2 (update) – 17 September 2024
 
 Version 2.2 (update) – 7 September 2025
 -------------------------------------------------------------------------------------------------------------
-- remove - Pengurangan / Eliminasi Task dari database
-- new - Filter "Kasus yang BELUM ADA agenda intervensinya dari anda"
+- remove - pengurangan / Eliminasi Task dari database
+- new - filter "Kasus yang BELUM ADA agenda intervensinya dari anda"
   
 Version 2.1 (update) – 15 Agustus 2024
 -------------------------------------------------------------------------------------------------------------
@@ -67,7 +75,7 @@ Version 2.1 (update) – 1 Juni 2024
 - new - kolom urutan nomor di halaman monitoring kinerja
 - new - keterangan bulan dan tahun pada download excel dan pdf di halaman monitoring kinerja
 - new - jumlah hari di halaman monitoring kinerja 
-- new - Field Catatan Proses Hukum di halaman detail kasus 
+- new - field Catatan Proses Hukum di halaman detail kasus 
 - new - menampilkan filter yang sedang aktif di list kasus di halaman kasus 
 - new - fitur paste di tinyMCE agenda
 - fix - firefox gk bisa select2 
