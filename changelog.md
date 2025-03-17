@@ -5,6 +5,19 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+Version 2.2 (update) – 24 Februari 2025
+-------------------------------------------------------------------------------------------------------------
+- update - Perubahan field Deskripsi Proses.
+- new - Share Laporan Kegiatan.
+
+Version 2.2 (update) – 17 Februari 2025
+-------------------------------------------------------------------------------------------------------------
+- new - Share list agenda
+- new - Share ringkasan kasus
+- new - Surat penerimaan / penghentian layanan RPS
+- new - Download data layanan non-agregat
+- new - Penambahan mekanisme 1 kasus 1 akun primer Supervisor Kasus, Manajer Kasus, Penerima Pengaduan.
+
 Version 2.2 (update) – 10 Oktober 2024
 -------------------------------------------------------------------------------------------------------------
 - new - search box untuk mencari klien
@@ -28,6 +41,11 @@ Version 2.2 (update) – 17 September 2024
 - fix - penambahan kriteria sudah diTL untuk TL kode Task  T4, T6, T7, T8, T15
 - fix - perubahan tipe dari “Task” menjadi “Notif” untuk TL kode Task T9 dan T15
 
+Version 2.2 (update) – 7 September 2025
+-------------------------------------------------------------------------------------------------------------
+- remove - Pengurangan / Eliminasi Task dari database
+- new - Filter "Kasus yang BELUM ADA agenda intervensinya dari anda"
+  
 Version 2.1 (update) – 15 Agustus 2024
 -------------------------------------------------------------------------------------------------------------
 - new - field "intervensi ke" pada formulir intervensi
