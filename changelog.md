@@ -5,6 +5,10 @@ Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
 - new - tabel jumlah setiap layanan di halaman monitoring
 
+Version 2.2 (update) – 18 Juni 2025
+-------------------------------------------------------------------------------------------------------------
+-  new - fitur perubahan status dari primer ke sekunder atau sebaliknya
+
 Version 2.2 (update) – 24 Februari 2025
 -------------------------------------------------------------------------------------------------------------
 - update - Perubahan field Deskripsi Proses.
