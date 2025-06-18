@@ -3,7 +3,7 @@ User Notes
 
 Version x for future – unstable
 -------------------------------------------------------------------------------------------------------------
-- new - tabel jumlah setiap layanan di halaman monitoring
+- new - buat fitur perubahan primer / sekunder dan sebaliknya
 
 Version 2.2 (update) – 18 Juni 2025
 -------------------------------------------------------------------------------------------------------------
